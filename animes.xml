@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<animes>
+    <anime posicao="1">
+        <nome>Naruto</nome>
+        <temporada>1</temporada>
+        <titulo>A Equipe Kakashi se Mobiliza</titulo>
+        <episodio>8</episodio>
+        <lancamento>2007</lancamento>
+        <diretor>
+            <nomeDiretor>Masashi Kishimoto</nomeDiretor>
+            <idade>46</idade>
+        </diretor>
+        <produtora>
+            <nomeProdutora>Playarte</nomeProdutora>
+            <endereco>
+                <logradouro>Rua Alameda Santos, 1787</logradouro>
+                <bairro>Cerqueira César</bairro>
+                <cidade>São Paulo</cidade>
+                <estado>SP</estado>
+            </endereco>
+        </produtora>
+    </anime>
+    <!--Anime adicionado com sucesso no CRUD!-->
+</animes>
